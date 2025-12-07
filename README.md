@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **barnwalkhushi12345@gmail.com**
 
-- ⚡ Fun fact **I love meeting new people and exploring new ideas.**
+- ⚡ Fun fact: **I love meeting new people and exploring new ideas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
