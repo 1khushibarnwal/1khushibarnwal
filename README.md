@@ -9,7 +9,7 @@
 
 - 💬 Ask me about: **Web 3.0 and MERN stack.**
 
-- 📫 How to reach me: **barnwalkhushi12345@gmail.com**
+- 📫 How to reach me: **1khushibarnwal.dev@gmail.com**
 
 - ⚡ Fun fact: **I love meeting new people and exploring new ideas.**
 
