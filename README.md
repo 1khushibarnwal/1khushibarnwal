@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Khushi Barnwal</h1>
+<h1 align="center">Hi 👋, I'm Khushi Barnwal</h1> 
+<h2> I can Fix the World but they won't give me the Source Code. </h2>
 <h3 align="center">A full-stack developer from India, passionate about Blockchains and an aspiring ML Engineer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1khushibarnwal" alt="1khushibarnwal" /></a> </p>
@@ -11,7 +12,9 @@
 
 - 📫 How to reach me: **1khushibarnwal.dev@gmail.com**
 
-- ⚡ Fun fact: **I love meeting new people and exploring new ideas.**
+- ⚡ Fun facts: **I love meeting new people and exploring new ideas.**
+               **Armed With Linux and Humour.**
+               **I'm Just a <div>a.** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
