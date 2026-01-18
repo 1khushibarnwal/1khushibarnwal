@@ -14,7 +14,7 @@
 
 - ⚡ Fun facts: **I love meeting new people and exploring new ideas.**
                **Armed With Linux and Humour.**
-               **I'm Just a <div>a.** 
+               **I'm Just a < div > a.** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
