@@ -2,7 +2,7 @@
 <h3 align="center">A full-stack developer from India, passionate about Blockchains and an aspiring ML Engineer.</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning: Solidity and smart contracts.<br><br>👯 I’m looking to collaborate on new project ideas.<br><br>💬 Ask me about: Web 3.0 and MERN stack.<br><br>📫 How to reach me: 1khushibarnwal.dev@gmail.com<br><br>⚡ Fun facts: I love meeting new people and exploring new ideas. Armed With Linux and Humour. I can Fix the World but they won't give me the Source Code.
+🌱 I’m currently learning: Solidity and smart contracts.<br><br>👯 I’m looking to collaborate on new project ideas.<br><br>💬 Ask me about: Web 3.0 and MERN stack.<br><br>📫 How to reach me: 1khushibarnwal.dev@gmail.com<br><br>⚡ Fun facts: I love meeting new people and exploring new ideas. I can Fix the World but they won't give me the Source Code.
 
 
 ## 🌐 Socials:
