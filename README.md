@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Khushi Barnwal.</h1> 
+<h1 align="center">Hi, I'm Khushi Barnwal!</h1> 
 <h3 align="center">A full-stack developer from India, passionate about Blockchains and an aspiring ML Engineer.</h3>
 
 # 💫 About Me:
