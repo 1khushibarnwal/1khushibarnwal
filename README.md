@@ -2,7 +2,6 @@
 <h3 align="center">A full-stack developer from India, passionate about Blockchains and an aspiring ML Engineer.</h3>
 
 # 💫 About Me:
-## Hey, I'm Khushi 👋
 
 I'm a developer from **West Bengal, India** who enjoys building things at the intersection of **Web3, backend engineering, and Machine Learning**.
 
