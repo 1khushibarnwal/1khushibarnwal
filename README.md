@@ -2,8 +2,30 @@
 <h3 align="center">A full-stack developer from India, passionate about Blockchains and an aspiring ML Engineer.</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning: Machine Learning, Solidity, smart contracts and their integrations with Web2. I am trying my capabilities in Open source contributions too.<br><br>👯 I’m looking to collaborate on new project ideas and discuss tech stuff.<br><br>💬 Ask me about: ML, Web 3.0 and MERN stack.<br><br>📫 How to reach me: 1khushibarnwal.dev@gmail.com<br><br>⚡ Fun facts: I love meeting new people and exploring new ideas. I can fix the world but they won't give me the Source Code.
+## Hey, I'm Khushi 👋
 
+I'm a developer from **West Bengal, India** who enjoys building things at the intersection of **Web3, backend engineering, and Machine Learning**.
+
+I started with full-stack development and gradually moved deeper into **backend systems, Solidity, EVM smart contracts, and protocol development**. These days, I'm also exploring **Machine Learning** and learning how to take ML beyond theory and into practical, production-oriented systems.
+
+### What I'm building & exploring
+
+**⛓️ Web3**  
+Solidity · EVM · Foundry · Smart Contracts · DeFi · Protocol Design · Web2 ↔ Web3 Integrations
+
+**⚙️ Backend & Full-Stack**  
+Node.js · Express · Next.js · REST APIs · MongoDB · Authentication · AI-powered applications
+
+**🧠 Machine Learning**  
+Currently moving from ML fundamentals into hands-on ML engineering and real-world applications.
+
+### Let's build something interesting
+
+I'm always open to **open-source contributions, interesting project ideas, technical discussions, and collaborations**. If you're building something cool, feel free to reach out.
+
+📫 **1khushibarnwal.dev@gmail.com**
+
+> *I can fix the world, but they won't give me the source code.* 😭
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1khushibarnwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/1khushibarnwal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/1khushibarnwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:1khushibarnwal.dev@gmail.com) 
