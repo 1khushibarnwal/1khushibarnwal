@@ -7,7 +7,7 @@ I'm a developer from **West Bengal, India** who enjoys building things at the in
 
 I started with full-stack development and gradually moved deeper into **backend systems, Solidity, EVM smart contracts, and protocol development**. These days, I'm also exploring **Machine Learning** and learning how to take ML beyond theory and into practical, production-oriented systems.
 
-### What I'm building & exploring
+### What I'm building & exploring:
 
 **⛓️ Web3**  
 Solidity · EVM · Foundry · Smart Contracts · DeFi · Protocol Design · Web2 ↔ Web3 Integrations
@@ -18,7 +18,13 @@ Node.js · Express · Next.js · REST APIs · MongoDB · Authentication · AI-po
 **🧠 Machine Learning**  
 Currently moving from ML fundamentals into hands-on ML engineering and real-world applications.
 
-### Let's build something interesting
+### What I care about:
+
+I like understanding **how things work under the hood** — from APIs and distributed systems to smart-contract execution and ML models.
+
+I'm particularly interested in **system design, protocol correctness, developer tooling, and building reliable software that can actually be used in the real world.**
+
+### Let's build something interesting:
 
 I'm always open to **open-source contributions, interesting project ideas, technical discussions, and collaborations**. If you're building something cool, feel free to reach out.
 
