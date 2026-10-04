@@ -28,7 +28,7 @@ I'm particularly interested in **system design, protocol correctness, developer 
 
 I'm always open to **open-source contributions, interesting project ideas, technical discussions, and collaborations**. If you're building something cool, feel free to reach out.
 
-📫 **1khushibarnwal.dev@gmail.com**
+Email 📫: **1khushibarnwal.dev@gmail.com**
 
 > *I can fix the world, but they won't give me the source code.* 😭
 
