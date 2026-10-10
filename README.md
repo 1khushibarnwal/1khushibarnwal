@@ -33,7 +33,7 @@ I'm always open to **open-source contributions, interesting project ideas, techn
 
 Email 📫: **1khushibarnwal.dev@gmail.com**
 
-> *Let's connect for something crazyy.* <3
+> *Let's connect for something crazyy.* \
 > *Find me: @1khushibarnwal* <3
 
 ## 🌐 Socials:
