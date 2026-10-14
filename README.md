@@ -29,7 +29,7 @@ I'm particularly interested in **system design, protocol correctness, developer 
 
 ### Let's build something interesting:
 
-I'm always open to **open-source contributions, interesting project ideas, technical discussions, and collaborations**. If you're building something cool, feel free to reach out.
+I'm always open to **open-source contributions, interesting project ideas, technical discussions, and collaborations**. If you're building something cool, feel free to reach out. :)
 
 Email 📫: **1khushibarnwal.dev@gmail.com**
 
