@@ -3,11 +3,11 @@
 
 # 💫 About Me:
 
-I'm a developer from **West Bengal, India** who enjoys building things at the intersection of **Web3, backend engineering, and Machine Learning**.
+I am a developer from **West Bengal, India** who enjoys building things at the intersection of **Web3, backend engineering, and Machine Learning**.
 
 I started with full-stack development and gradually moved deeper into **backend systems, Solidity, EVM smart contracts, and protocol development**. These days, I am also exploring **Machine Learning**, actively strengthening my DSA and problem-solving skills, and learning how to take ML beyond theory and into practical, production-oriented systems.
 
-### What I'm building & exploring:
+### What I am building & exploring:
 
 **⛓️Web3** :
 
@@ -25,11 +25,11 @@ Currently moving from ML fundamentals into hands-on ML engineering and real-worl
 
 I like understanding **how things work under the hood** — from APIs and distributed systems to smart-contract execution and ML models.
 
-I'm particularly interested in **system design, protocol correctness, developer tooling, and building reliable software that can actually be used in the real world.**
+I am particularly interested in **system design, protocol correctness, developer tooling, and building reliable software that can actually be used in the real world.**
 
 ### Let's build something interesting:
 
-I'm always open to **open-source contributions, interesting project ideas, technical discussions, and collaborations**. If you're building something cool, feel free to reach out—whether it's for a hackathon or a personal project. :)
+I am always open to **open-source contributions, interesting project ideas, technical discussions, and collaborations**. If you're building something cool, feel free to reach out—whether it's for a hackathon or a personal project. :)
 
 Email 📫: **1khushibarnwal.dev@gmail.com**
 
