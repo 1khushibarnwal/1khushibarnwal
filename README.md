@@ -34,7 +34,7 @@ I am always open to **open-source contributions, interesting project ideas, tech
 Email 📫: **1khushibarnwal.dev@gmail.com**
 
 > *Let's connect for something crazyy.* \
-> *Find me: @1khushibarnwal* <3
+> *Find me: @1khushibarnwal* 
 
 ## 🌐 Connect with me here:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1khushibarnwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/1khushibarnwal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/1khushibarnwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:1khushibarnwal.dev@gmail.com) 
