@@ -27,7 +27,7 @@ I like understanding **how things work under the hood** — from APIs and distri
 
 I am particularly interested in **system design, protocol correctness, developer tooling, and building reliable software that can actually be used in the real world.**
 
-### Let's build something interesting:
+### Let us build something interesting:
 
 I am always open to **open-source contributions, interesting project ideas, technical discussions, and collaborations**. If you're building something cool, feel free to reach out—whether it's for a hackathon or a personal project. :)
 
@@ -36,7 +36,7 @@ Email 📫: **1khushibarnwal.dev@gmail.com**
 > *Let's connect for something crazyy.* \
 > *Find me: @1khushibarnwal* 
 
-## 🌐 Let's Connect:
+## 🌐 Let us Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1khushibarnwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/1khushibarnwal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/1khushibarnwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:1khushibarnwal.dev@gmail.com) 
 
 # 💻 Tech Stack:
