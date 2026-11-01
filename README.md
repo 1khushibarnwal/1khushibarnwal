@@ -5,7 +5,7 @@
 
 I am a developer from **West Bengal, India** who enjoys building things at the intersection of **Web3, backend engineering, and Machine Learning**.
 
-I started with full-stack development and gradually moved deeper into **backend systems, Solidity, EVM smart contracts, and protocol development**. These days, I am also exploring **Machine Learning**, actively strengthening my DSA and problem-solving skills, and learning how to take ML beyond theory and into practical, production-oriented systems.
+I started with full-stack development and gradually moved deeper into **backend systems, Solidity, EVM smart contracts, and protocol development**. These days, I am also exploring **Machine Learning**, actively strengthening my Data Structure, Algorithms and problem-solving skills, and learning how to take ML beyond theory and into practical, production-oriented systems.
 
 ### What I am building and exploring:
 
