@@ -19,7 +19,7 @@ Node.js · Express · Next.js · REST APIs · MongoDB · Authentication · AI-po
 
 **🧠Machine Learning** :
 
-Currently moving from Machine Learning fundamentals into hands-on Machine Learning engineering and real-world applications.
+Currently moving from ML fundamentals into hands-on Machine Learning engineering and real-world applications.
 
 ### What I care about:
 
