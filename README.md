@@ -9,15 +9,15 @@ I started with full-stack development and gradually moved deeper into **backend 
 
 ### What I am building and exploring:
 
-**⛓️Web3** :
+**⛓️ Web3** :
 
 Solidity · EVM · Foundry · Smart Contracts · DeFi · Protocol Design · Web2 ↔ Web3 Integrations
 
-**⚙️Backend & Full-Stack** :
+**⚙️ Backend & Full-Stack** :
 
 Node.js · Express · Next.js · REST APIs · MongoDB · Authentication · AI-powered applications
 
-**🧠Machine Learning** :
+**🧠 Machine Learning** :
 
 Currently moving from ML fundamentals into hands-on Machine Learning engineering and real-world applications.
 
