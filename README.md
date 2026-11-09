@@ -15,7 +15,7 @@ Solidity · EVM · Foundry · Smart Contracts · DeFi · Protocol Design · Web2
 
 **⚙️ Backend & Full-Stack** :
 
-Node.js · Express · Next.js · REST APIs · MongoDB · Authentication · AI-powered applications
+Node.js · Express · Next.js · REST APIs · MongoDB · MySQL · Authentication · AI-powered applications
 
 **🧠 Machine Learning** :
 
