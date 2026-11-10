@@ -9,7 +9,7 @@ I started with full-stack development and gradually moved deeper into **backend 
 
 ### What I am building and exploring:
 
-**⛓️ Web3** :
+**⛓️ Web3-Blockchain** :
 
 Solidity · EVM · Foundry · Smart Contracts · DeFi · Protocol Design · Web2 ↔ Web3 Integrations
 
