@@ -11,7 +11,7 @@ I started with full-stack development and gradually moved deeper into **backend 
 
 **⛓️ Web3-Blockchain** :
 
-Solidity · EVM · Foundry · Smart Contracts · DeFi · Protocol Design · Web2 ↔ Web3 Integrations
+Solidity · Ethereum Virtual Machine (EVM) · Foundry · Smart Contracts · DeFi · Protocol Design · Web2 ↔ Web3 Integrations
 
 **⚙️ Backend & Full-Stack** :
 
