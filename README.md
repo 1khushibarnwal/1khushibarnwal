@@ -31,7 +31,7 @@ I am particularly interested in **system design, protocol correctness, developer
 
 I am always open to **open-source contributions, interesting project ideas, technical discussions, and collaborations**. If you're building something cool, feel free to reach out—whether it's for a hackathon or a personal project. :)
 
-Email 📫: **1khushibarnwal.dev@gmail.com**
+📫 Email me here: **1khushibarnwal.dev@gmail.com**
 
 > *Let us connect for something crazyy.* \
 > *Find me: @1khushibarnwal* 
